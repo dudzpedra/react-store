@@ -1,0 +1,34 @@
+{
+    "products": [
+    {
+      "title": "Cool T-shirt",
+      "price": 49.9,
+      "url": "/../public/shirt.jpg"
+    },
+    {
+      "title": "Cool Mug",
+      "price": 30,
+      "url": "/../public/mug.jpg"
+    },
+    {
+      "title": "Cool Socks",
+      "price": 20,
+      "url": "/../public/socks.jpg"
+    },
+    {
+      "title": "Cool Glasses",
+      "price": 150,
+      "url": "/../public/glasses.jpeg"
+    },
+    {
+      "title": "Cool Jacket",
+      "price": 120,
+      "url": "/../public/jacket.jpg"
+    },
+    {
+      "title": "Cool Tennis",
+      "price": 100,
+      "url": "/../public/tennis.jpeg"
+    }
+  ]
+}

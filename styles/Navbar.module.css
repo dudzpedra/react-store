@@ -1,0 +1,16 @@
+.navbar {
+    padding: 0.5rem;
+    color: rebeccapurple;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+
+.navbar a {
+    border-bottom: 1px solid rebeccapurple;
+    width: 85%;
+}
+
+.navbar a:hover {
+    cursor: pointer;
+}

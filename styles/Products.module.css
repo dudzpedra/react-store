@@ -1,0 +1,18 @@
+.products {
+    color: rebeccapurple;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 2rem 0;
+  }
+  
+  .product {
+    border: 1px solid rebeccapurple;
+    padding: 0.5rem;
+    width: 85%;
+    text-align: center;
+    margin: 1rem 0;
+  }
+  
+  .product:hover {
+    box-shadow: 0 4px;
+  }
